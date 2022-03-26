@@ -11,6 +11,9 @@
     <pharConfigPath>$PROJECT_DIR$/src/composer.json</pharConfigPath>
     <execution />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="KubernetesApiPersistence">
     <option name="context" value="minikube" />
     <option name="namespace" value="default" />
@@ -134,6 +137,7 @@
     </include_path>
   </component>
   <component name="ProjectId" id="26kMm9RR25Zc7cahsCdaVJUFIYF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />

@@ -31,5 +31,7 @@ DB_PASSWORD=
 
 
 ### Tips
+```
 - docker-compose run --rm server_service php /var/www/artisan route:clear (clear laravel routes)
 - docker-compose run --rm server_service php /var/www/artisan jwt:secret (kwt auth secret generator)
+```
