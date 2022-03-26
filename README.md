@@ -4,6 +4,8 @@ Implement example service for Laravel 9 + Vue 2.6 implementation CRUD service.
 Include several Vue components for example. 
 Application implemented on docker images, you can see instruction how to install below.
 
+![img.png](img.png)
+
 1. BACK part - implement on Laravel, standard layout MVC. Here use Controllers and Model for back logic. src/app
 2. FRONT part - implement standard layout, source in src/resources
 
